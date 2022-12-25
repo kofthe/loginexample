@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9aebc29d-aaef-49fd-a8b4-8cf097285590" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/controller/PostController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/model/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/model/SecurityUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/repository/PostRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/service/JpaUserDetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/LoginexampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/LoginexampleApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/appuser/AppUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/appuser/AppUserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/appuser/AppUserRole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/appuser/AppUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/registration/RegistrationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/registration/RegistrationRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/registration/RegistrationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/service/JpaUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginexample/src/main/java/mehmetari/loginexample/loginexample/service/JpaUserDetailsService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,24 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/manya/OneDrive/Documents/GitHub",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "spring.configuration.checksum": "a38921fa07ad64bbaf9d536f68ff513c",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/manya/OneDrive/Documents/GitHub&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;a38921fa07ad64bbaf9d536f68ff513c&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="LoginexampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="loginexample" />
@@ -94,6 +77,7 @@
       <workItem from="1671786178977" duration="5184000" />
       <workItem from="1671796726212" duration="126000" />
       <workItem from="1671820567534" duration="6002000" />
+      <workItem from="1671937913555" duration="301000" />
     </task>
     <servers />
   </component>

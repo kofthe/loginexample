@@ -2,7 +2,6 @@ package mehmetari.loginexample.loginexample.service;
 
 import mehmetari.loginexample.loginexample.model.SecurityUser;
 import mehmetari.loginexample.loginexample.repository.UserRepository;
-import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
